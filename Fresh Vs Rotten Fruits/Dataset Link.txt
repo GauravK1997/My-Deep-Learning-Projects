@@ -1,0 +1,3 @@
+Fruits fresh and rotten for classification (6 classes)
+
+	https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
